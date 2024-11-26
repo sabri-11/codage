@@ -11,7 +11,8 @@ la lettre dans l’alphabet : ici, "java" devient 10-1-22-1.
 Pour chiffrer le message, on décalera la première lettre de 10 places, la seconde d’une place, la troisième
 de 22 places, la quatrième de 1 place, puis on boucle : la cinquième lettre sera décalée de 10 places, la
 sixième lettre sera décalée d’une place, etc...
-Notre message devient alors : (regarder avec le mode "code" pour une meilleure compréhension)
+Notre message devient alors :
+(regarder avec le mode "code" pour une meilleure compréhension)
 
 l  a  p  r  o  g  r  a  m  m  a  t  i  o  n, c ’ e  s  t  v  r  a  i  m  e  n  t  b  i  e  n  !                                                      
 10 01 22 01 10 01 22 01 10 01 22 01 10 01 22 01  10 01 22 01 10 01 22 01 10 01 22 01 10 01 22
