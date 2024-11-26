@@ -1,4 +1,5 @@
-compilation et lancement depuis un terminal : gcc -Wall -Wfatal-errors vigenere_codage.c -o vigenere_codage && ./vigenere_codage text.txt mdp text_crypte.txt
+compilation et lancement depuis un terminal :
+gcc -Wall -Wfatal-errors vigenere_codage.c -o vigenere_codage && ./vigenere_codage text.txt mdp text_crypte.txt
 
 (remplacer mdp par le mot de passe avec lequel vous voulez crypter le message).
 
