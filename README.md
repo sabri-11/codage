@@ -15,6 +15,7 @@ Notre message devient alors :
 
 l  a  p  r  o  g  r  a  m  m  a  t  i  o  n, c ’ e  s  t  v  r  a  i  m  e  n  t  b  i  e  n  !
 10 01 22 01 10 01 22 01 10 01 22 01 10 01 22 01  10 01 22 01 10 01 22 01 10 01 22 01 10 01 22
+
 ----------------------------------------------------------------------------------------------------------------
 v  b  l  s  y  h  n  b  w  n  w  u  s  p  j,  d ’ o  t  p  w  b  b  e  n  o  o  p  c  s  f  j  !
 
