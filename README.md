@@ -13,7 +13,7 @@ de 22 places, la quatrième de 1 place, puis on boucle : la cinquième lettre se
 sixième lettre sera décalée d’une place, etc...
 Notre message devient alors :
 
-l  a  p  r  o  g  r  a  m  m  a  t  i  o  n, c ’ e  s  t  v  r  a  i  m  e  n  t  b  i  e  n  !                                                    
+l  a  p  r  o  g  r  a  m  m  a  t  i  o  n, c ’ e  s  t  v  r  a  i  m  e  n  t  b  i  e  n  !   (regarder avec le mode "code" pour une meilleure compréhension)                                  
 10 01 22 01 10 01 22 01 10 01 22 01 10 01 22 01  10 01 22 01 10 01 22 01 10 01 22 01 10 01 22
 
 ----------------------------------------------------------------------------------------------------------------
